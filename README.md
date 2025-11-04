@@ -122,21 +122,3 @@ Add reminder and note-taking support 🗒️
 
 
 Integrate Google Calendar and News APIs 📰
-
-
-
-⭐ If you like this project, give it a star on GitHub!
-Let’s make Jarvis smarter together! 🚀
-
----
-
-✅ **How to Use:**
-1. Create a file named `README.md` inside your GitHub project folder.
-2. Paste this content.
-3. Commit and push it to your repository.
-
----
-
-Would you like me to also create a **custom project description and short tagline** (for GitHub repository header + about section)?  
-Example:  
-> *“AI-powered voice assistant built with Python that listens, understands, and talks like a human.”*
